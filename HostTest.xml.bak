@@ -1,0 +1,37 @@
+<Hosts>
+  <Host>
+    <HostName>V3_208</HostName>
+    <IP>10.89.154.208</IP>
+    <Port>1521</Port>
+    <User>v3mes</User>
+    <PW>v3mes</PW>
+    <SID>orcl</SID>
+  </Host>
+    <Host>
+    <HostName>V3_66</HostName>
+    <IP>10.89.154.66</IP>
+    <Port>1521</Port>
+    <User>MESTST</User>
+    <PW>adm1200</PW>
+    <SID>orcl</SID>
+  </Host>
+    </Host>
+    <Host>
+    <HostName>V3_TST_71</HostName>
+    <IP>10.73.28.71</IP>
+    <Port>1521</Port>
+    <User>T1MESADM</User>
+    <PW>adm1200</PW>
+    <SID>orcl</SID>
+  </Host>
+    </Host>
+    <Host>
+    <HostName>V3_PRD</HostName>
+    <IP>10.73.18.12</IP>
+	<IP>10.73.18.13</IP>	
+    <Port>1521</Port>
+    <User>P1MESADM</User>
+    <PW>adm1210</PW>
+    <SID>orcl</SID>
+  </Host>
+</Hosts>
