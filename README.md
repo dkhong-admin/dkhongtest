@@ -1,2 +1,0 @@
-# dkhongtest
-test
